@@ -12,6 +12,8 @@ Using control flow in python, and formulating a computation solution to a proble
 A letter game called *Hangman* decomposited to its basic functions and implemented. It's an introduction to creating functions, as well as looping mechanisms.
 
 
-## [ps3](): Dictionaries, Tuples, List, Aliasing, Mutability, and Cloning
+## [ps3](): Dictionaries, Tuples, Lists, Aliasing, Mutability, Cloning, Testing and Debugging
 
 A word game like *Scrabble* implemented. The main goals are to work with dictionaries, an understanding on mutability, writing a program by pseudocode, testing and debugging each function in creation.
+
+A test file prepared as `test_ps3.py` to test each function in `ps3.py`.
