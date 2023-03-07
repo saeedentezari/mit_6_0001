@@ -10,3 +10,8 @@ Using control flow in python, and formulating a computation solution to a proble
 ## [ps2](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/d57834a8de13b1579b3e5274e520ea14_ps2.zip): String Manipulation, Guess and Check, Decomposition, Abstraction, Functions
 
 A letter game called *Hangman* decomposited to its basic functions and implemented. It's an introduction to creating functions, as well as looping mechanisms.
+
+
+## [ps3](): Dictionaries, Tuples, List, Aliasing, Mutability, and Cloning
+
+A word game like *Scrabble* implemented. The main goals are to work with dictionaries, an understanding on mutability, writing a program by pseudocode, testing and debugging each function in creation.
