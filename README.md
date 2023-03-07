@@ -17,3 +17,12 @@ A letter game called *Hangman* decomposited to its basic functions and implement
 A word game like *Scrabble* implemented. The main goals are to work with dictionaries, an understanding on mutability, writing a program by pseudocode, testing and debugging each function in creation.
 
 A test file prepared as `test_ps3.py` to test each function in `ps3.py`.
+
+
+## [ps4](): Recursion, Object Oriented Programming, Python Classes and Inheritance
+
+This problem set has two parts:
+
+1. Recursion: Solve the permutation problem by recursion in `ps4a.py` file.
+
+2. OOP: Write two methods of encryption on text message, one by shift the letters in `ps4b.py`, and another by substitution in `ps4c.py`. Decryption also included.
