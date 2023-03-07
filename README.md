@@ -7,19 +7,19 @@ Just a warm-up!
 Using control flow in python, and formulating a computation solution to a problem. And also an exploration on bisection search.
 
 
-## [ps2](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/d57834a8de13b1579b3e5274e520ea14_ps2.zip): String Manipulation, Guess and Check, Decomposition, Abstraction, Functions
+## [ps2](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/ps2/): String Manipulation, Guess and Check, Decomposition, Abstraction, Functions
 
 A letter game called *Hangman* decomposited to its basic functions and implemented. It's an introduction to creating functions, as well as looping mechanisms.
 
 
-## [ps3](): Dictionaries, Tuples, Lists, Aliasing, Mutability, Cloning, Testing and Debugging
+## [ps3](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/ps3/): Dictionaries, Tuples, Lists, Aliasing, Mutability, Cloning, Testing and Debugging
 
 A word game like *Scrabble* implemented. The main goals are to work with dictionaries, an understanding on mutability, writing a program by pseudocode, testing and debugging each function in creation.
 
 A test file prepared as `test_ps3.py` to test each function in `ps3.py`.
 
 
-## [ps4](): Recursion, Object Oriented Programming, Python Classes and Inheritance
+## [ps4](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/ps4/): Recursion, Object Oriented Programming, Python Classes and Inheritance
 
 This problem set has two parts:
 
