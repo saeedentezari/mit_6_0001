@@ -26,3 +26,14 @@ This problem set has two parts:
 1. Recursion: Solve the permutation problem by recursion in `ps4a.py` file.
 
 2. OOP: Write two methods of encryption on text message, one by shift the letters in `ps4b.py`, and another by substitution in `ps4c.py`. Decryption also included.
+
+---
+
+`in_class_test.py` as its name says, is my test of functions and classes introduced in lecture videos. Such as:
+
+* Recursive functions like *Towers of Hanoi*, *Palindrome*, and *Fibonacci* with/out memory.
+
+* Order of growth of two bisection search methods, which are slightly different in implementation but have a big difference in runtime.<br>
+Both of them are implemented in recursive fashion. The inefficient one copy! (by slicing `L[:mid]` or `L[mid:]`) each section of the searched list in each recursive step, but the efficient one just works with indices on the list to be searched.
+
+* Sorting by *merge sort*, *bubble sort*, and *selection sort*.
